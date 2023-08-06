@@ -18,5 +18,9 @@ public class AppiumTest {
 	public void IOSApps() {
 		System.out.println("IOSAPPS");
 	}
+	
+	public void anotherMethodToTest() {
+		System.out.println("Create to test how to merger the branch into master");
+	}
 
 }
