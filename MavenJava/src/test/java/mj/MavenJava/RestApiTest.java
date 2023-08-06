@@ -7,6 +7,7 @@ public class RestApiTest {
 	public void postJira() {
 		
 		System.out.println("NativeAndroid");
+		System.out.println("User1 Which is american guy also do some changes");
 		
 	}
 	
